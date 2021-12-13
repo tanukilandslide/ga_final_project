@@ -20,8 +20,8 @@ h2 {
 }
 
 @keyframes arrow {
-    from {padding: 0 50% 0 50%;}
-    to {padding: 50px 50% 0 50%;}
+    from {padding: 0 50% 0 46.75%;}
+    to {padding: 50px 50% 0 46.75%;}
 }
 
 .arrow {
